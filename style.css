@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: larger;   
+}
+header nav ul{
+    list-style:none;
+}
